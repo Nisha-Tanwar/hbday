@@ -1,0 +1,34 @@
+#abc{
+    width: 200px;
+    height: 300px;
+} #def{
+    width: 200px;
+    height: 300px;
+}
+#ghi{
+    width: 200px;
+    height: 300px;
+}
+#jkl{
+    width: 300px;
+    height: 300px;
+}
+h1{
+    background-color: purple;
+    color: white;
+}
+h3{
+    color: darkblue;
+}
+h2{
+    color: rgb(0, 115, 255);
+}
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
